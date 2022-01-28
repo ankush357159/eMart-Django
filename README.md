@@ -1,0 +1,1 @@
+# :rocket: Django-React Ecommerce Project :rocket:
